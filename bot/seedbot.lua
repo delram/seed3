@@ -217,11 +217,12 @@ function create_config( )
     "get",
     "broadcast",
     "download_media",
+    "plugins",
     "invite",
     "all",
     "leave_ban"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {94477327,144976651,173666523,140503292,170774776},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
