@@ -222,15 +222,11 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {94477327,144976651,173666523,140503292,170774776},--Sudo users
+    sudo_users = {94477327,94389886},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Pershian V3.8
-Developer : @GenerousMan_Bot
-Managers:
-@Mohsen_takavar
-@ReZa_AdMiN_acc2
-@samir_jok
+    about_text = [[🔥 ħʍď ąɲţɨ-şpąʍʍ€ŕ 🔥 V3.8
+Manager: @Farzadhmd1 & Developer: @GenerousMan_Bot
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -366,7 +362,7 @@ member_modlist_rulesبرای پاک کردن دسته جمعی:اعضا و اد�
 2⃣ادمین ها میتوانند
 کیک+بن+آن بن+تعویض لینک+گرفتن لینک+عوض کردن اسم+عوض کردن عکس+تمامی قفل ها+حذف تمامی قفل ها+گزاشتن قانون
 3⃣اونر ها میتوانند کل کار های ادمین هارا انجام دهند+ادمین کردن+حذف ادمین 
-pershian™
+🔥 ħʍď ąɲţɨ-şpąʍʍ€ŕ 🔥
 
 ]]
   }
